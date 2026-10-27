@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🏢 HRMS — Human Resource Management System</h1>
+<h1>StaffSync — Human Resource Management System</h1>
 
 <p>A full-stack <strong>SaaS-ready HRMS platform</strong> built with the <strong>MERN Stack</strong> to manage employees, attendance, leaves, and organizational workflows — all in one place.</p>
 
