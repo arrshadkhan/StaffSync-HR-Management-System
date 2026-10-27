@@ -235,16 +235,6 @@ Please make sure your code follows consistent formatting and includes relevant c
 
 This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
 
----
-
-## 📧 Contact
-
-**Deepanshu Sharma**
-
-[![Email](https://img.shields.io/badge/Email-sharmadeepanshu0003@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharmadeepanshu0003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MERNForge-181717?style=flat-square&logo=github)](https://github.com/MERNForge)
-
----
 
 <div align="center">
 
